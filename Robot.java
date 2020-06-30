@@ -43,7 +43,6 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
         System.out.println("What is 2 + 2?");
         System.out.println("1. 2+2 is 1");
         System.out.println("2. 2+2 is 5");
@@ -59,6 +58,6 @@ public class SimpleBot {
     }
 
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!");
     }
 }
